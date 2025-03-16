@@ -98,7 +98,7 @@ This sarcasm detection tool, built with Streamlit, offers a user-friendly interf
 This project is licensed under the MIT License.
 
 ## Contact
-For inquiries or issues, please contact saniahasan167@gmail.com.
+For inquiries or issues, please contact prabirbishal2005@gmail.com.
 
 ## Acknowledgements
 - Streamlit: https://streamlit.io/
